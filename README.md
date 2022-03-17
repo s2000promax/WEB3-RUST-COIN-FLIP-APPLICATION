@@ -1,0 +1,2 @@
+# WEB3-RUST-COIN-FLIP-APPLICATION
+Developer challenge
